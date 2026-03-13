@@ -1,0 +1,109 @@
+2025-08-06 05:47:15.257780: Camera Enabled
+2025-08-06 05:47:37.609575: Camera Disabled
+2025-08-06 05:48:26.488739: Camera Disabled
+2025-08-06 05:48:44.369194: Camera Enabled
+2025-08-06 05:48:59.405086: Camera Disabled
+2025-08-06 05:49:14.379388: Camera Enabled
+2025-08-06 05:53:25.935207: Camera Enabled
+2025-08-06 06:02:55.286504: Camera Enabled
+2025-08-06 09:21:43.792172: Camera Enabled
+2025-08-06 09:22:00.571805: Camera Disabled
+2025-08-06 10:28:23.630103: Camera Enabled
+2025-08-06 11:26:49.096459: Camera Enabled
+2025-08-06 11:27:40.748191: Camera Disabled
+2025-08-06 12:03:11.932940: Camera Enabled
+2025-08-06 12:03:26.876691: Camera Disabled
+2025-08-06 12:41:39.678667: Camera Enabled
+2025-08-06 12:41:51.840668: Camera Disabled
+2025-08-06 12:42:31.875612: Camera Enabled
+2025-08-06 12:44:43.187674: Camera Disabled
+2025-08-06 12:47:29.238333: Camera Enabled
+2025-08-06 12:47:51.783529: Camera Disabled
+2025-08-06 12:49:21.302263: Camera Enabled
+2025-08-06 12:49:41.724226: Camera Disabled
+2025-08-06 12:58:28.090474: Camera Enabled
+2025-08-06 12:58:44.756401: Camera Disabled
+2025-08-06 13:04:42.202928: Camera Enabled
+2025-08-06 13:04:59.758318: Camera Disabled
+2025-08-06 13:07:02.018468: Camera Enabled
+2025-08-06 13:07:15.961361: Camera Disabled
+2025-08-06 13:09:07.491243: Camera Enabled
+2025-08-06 13:09:19.091286: Camera Disabled
+2025-08-06 13:10:36.333180: Camera Enabled
+2025-08-06 13:10:55.545823: Camera Disabled
+2025-08-06 13:14:26.736753: Camera Enabled
+2025-08-06 13:14:40.533015: Camera Disabled
+2025-08-06 13:19:32.439227: Camera Enabled
+2025-08-06 13:19:46.668302: Camera Disabled
+2025-08-06 13:31:30.731078: Camera Enabled
+2025-08-06 13:36:42.566911: Camera Disabled
+2025-08-06 13:37:26.653302: Camera Enabled
+2025-08-06 13:43:48.606059: Camera Disabled
+2025-08-06 13:48:34.280766: Camera Enabled
+2025-08-06 13:49:34.580224: Camera Disabled
+2025-08-06 13:50:01.931882: Camera Enabled
+2025-08-06 14:02:41.992195: Camera Disabled
+2025-08-06 14:07:14.403256: Camera Enabled
+2025-08-06 14:08:43.092316: Camera Disabled
+2025-08-06 14:09:45.630191: Camera Enabled
+2025-08-06 14:09:57.570414: Camera Disabled
+2025-08-06 14:13:05.434057: Camera Enabled
+2025-08-06 14:19:24.529139: Camera Disabled
+2025-08-06 14:41:38.631198: Camera Enabled
+2025-08-06 14:43:37.608254: Camera Disabled
+2025-08-06 14:58:00.125507: Camera Enabled
+2025-08-06 14:59:27.679936: Camera Disabled
+2025-08-06 15:03:42.836246: Camera Enabled
+2025-08-06 15:05:36.905812: Camera Disabled
+2025-08-14 08:09:13.478528: Camera Enabled
+2025-08-14 08:09:14.026177: Email alert skipped (not configured).
+2025-08-14 08:09:37.457500: Camera Disabled
+2025-08-14 08:09:37.457500: Email alert skipped (not configured).
+2025-08-14 08:12:02.718195: Email config saved.
+2025-08-14 08:12:20.139215: Email send failed: [Errno 11003] getaddrinfo failed
+2025-08-14 08:35:15.436359: Email config save failed: [Errno 13] Permission denied: 'email_config.sec'
+2025-08-14 08:35:52.145002: Email config save failed: [Errno 13] Permission denied: 'email_config.sec'
+2025-08-14 08:55:55.960717: Email config saved.
+2025-08-14 08:56:26.476167: Camera Enabled
+2025-08-14 08:56:27.052113: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Enabled; Date/Time: 2025-08-14 08:56:27; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 08:56:39.717433: Camera Disabled
+2025-08-14 08:56:41.822271: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Disabled; Date/Time: 2025-08-14 08:56:41; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 08:57:29.515216: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Test Alert; Date/Time: 2025-08-14 08:57:29; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:30:00.279423: Email config saved.
+2025-08-14 11:30:06.135701: Email config saved.
+2025-08-14 11:30:12.453513: Camera Enabled
+2025-08-14 11:30:13.089719: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Enabled; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:30:17.143314: Camera Disabled
+2025-08-14 11:30:19.315595: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Disabled; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:30:20.138695: Camera Enabled
+2025-08-14 11:30:20.799952: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Enabled; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:30:32.075769: Camera Disabled
+2025-08-14 11:30:32.091694: Camera Disabled
+2025-08-14 11:30:32.093699: Camera Disabled
+2025-08-14 11:30:33.806173: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Disabled; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:30:33.806173: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Disabled; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:30:34.411412: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Disabled; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:30:53.265191: Camera Enabled
+2025-08-14 11:30:54.167022: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Enabled; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:34:06.913075: Camera Disabled
+2025-08-14 11:34:06.928923: Camera Disabled
+2025-08-14 11:34:06.941858: Camera Disabled
+2025-08-14 11:34:06.946617: Camera Disabled
+2025-08-14 11:34:09.212964: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Disabled; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:34:09.221777: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Disabled; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:34:09.221777: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Disabled; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:34:09.797097: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Disabled; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:35:50.862569: Camera Enabled
+2025-08-14 11:35:51.501121: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Enabled; Date/Time: 2025-08-14 11:35:51; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:36:11.413770: Camera Disabled
+2025-08-14 11:36:13.372991: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Disabled; Date/Time: 2025-08-14 11:36:13; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:36:16.136589: Email config saved.
+2025-08-14 11:36:22.211945: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Test Alert; Date/Time: 2025-08-14 11:36:22; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:51:45.844911: Email config saved.
+2025-08-14 11:51:47.446799: Email config saved.
+2025-08-14 11:52:19.654578: Camera Enabled
+2025-08-14 11:52:20.245365: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Enabled; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:52:32.712340: Camera Disabled
+2025-08-14 11:52:34.535839: Email send failed to velpulalaharikap@gmail.com; Subject: [WebCam Spyware Security] Camera Disabled; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 11:52:37.762358: Email send failed to velpulalaharikap@gmail.com; Subject: Test Email from WebCam Spyware; Error: [Errno 11003] getaddrinfo failed
+2025-08-14 12:08:13.209393: Email send failed to velpulalaharikap@gmail.com; Subject: Test Email from WebCam Spyware; Error: [Errno 11003] getaddrinfo failed
